@@ -2,18 +2,19 @@
 import cv2
 import os
 
-def preprocess(input_file, output_file):
+# initial preprocess function that is unoptimzed utilizing cv2 libraries
+def preprocess(input_image):
     # Read in image
-    image = cv2.imread(input_file, cv2.IMREAD_GRAYSCALE)
-    image_blur = cv2.GaussianBlur(image, (5, 5), 0)
+    image = cv2.imread(input_image)
 
+    # Convert to grayscale
+    image_gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
-    output_dir = output_file  # or args.output
-    output_path = os.path.join(output_dir, "output_image.png")
-    cv2.imwrite(output_path, image)
+    # Gaussian blur
+    image_blur = cv2.GaussianBlur(image_gray, (3, 3), 0)
 
-    output_path = os.path.join(output_dir, "output_image_blur.png")
+    output_dir = os.getcwd()
+    output_path = os.path.join(output_dir, "preprocess.png")
     cv2.imwrite(output_path, image_blur)
 
-    output_path = os.path.join(output_dir, "output_image_contrast.png")
-    cv2.imwrite(output_path, image_contrast)
+    return image_blur
