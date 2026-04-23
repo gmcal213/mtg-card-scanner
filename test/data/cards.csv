@@ -1,0 +1,181 @@
+id,title,background,position,file
+1,Tenth District Guard,white,center,tenth_district_guard_001.jpeg
+2,Iron Clad Krovod,white,center,iron_clad_krovod_001.jpeg
+3,Ironroot Warlord,white,center,ironroot_warlord_001.jpeg
+4,Risen Reef,white,center,risen_reef_001.jpeg
+5,Empyrean Eagle,white,center,empyrean_eagle_001.jpeg
+6,Soldier,white,center,soldier_001.jpeg
+7,Wolf,white,center,wolf_001.jpeg
+8,Audacious Thief,white,center,audacious_thief_001.jpeg
+9,Zombie Army,white,center,zombie_army_001.jpeg
+10,Plaguecrafter,white,center,plaguecrafter_001.jpeg
+11,Undead Servant,white,center,undead_servant_001.jpeg
+12,Duress,white,center,duress_001.jpeg
+13,Vorstclaw,white,center,vorstclaw_001.jpeg
+14,Rabid Bite,white,center,rabid_bite_001.jpeg
+15,Aggressive Mammoth,white,center,aggressive_mammoth_001.jpeg
+16,Roaming Throne,white,center,roaming_throne_001.jpeg
+17,Leafkin Druid,white,center,leafkin_druid_001.jpeg
+18,"Ob Nixilis, the Hate-Twisted",white,center,ob_nixilis_the_hate-twisted_001.jpeg
+19,Arrester's Zeal,white,center,arresters_zeal_001.jpeg
+20,Mask of Immolation,white,center,mask_of_immolation_001.jpeg
+21,Justiciar's Portal,white,center,justiciars_portal_001.jpeg
+22,Plains,white,center,plains_001.jpeg
+23,Jaya's Greeting,white,center,jayas_greeting_001.jpeg
+24,"Chandra, Novice Pyromancer",white,center,chandra_novice_pyromancer_001.jpeg
+25,Cloudkin Seer,white,center,cloudkin_seer_001.jpeg
+26,Unsummon,white,center,unsummon_001.jpeg
+27,Winged Words,white,center,winged_words_001.jpeg
+28,Cavern of Souls,white,center,cavern_of_souls_001.jpeg
+29,Corpse Knight,white,center,corpse_knight_001.jpeg
+30,Three Tree City,white,center,three_tree_city_001.jpeg
+31,Audacious Thief,white,offcenter,audacious_thief_002.jpeg
+32,Iron Clad Krovod,white,offcenter,iron_clad_krovod_002.jpeg
+33,Ironroot Warlord,white,offcenter,ironroot_warlord_002.jpeg
+34,Tenth District Guard,white,offcenter,tenth_district_guard_002.jpeg
+35,Empyrean Eagle,white,offcenter,empyrean_eagle_002.jpeg
+36,Risen Reef,white,offcenter,risen_reef_002.jpeg
+37,Soldier,white,offcenter,soldier_002.jpeg
+38,Zombie Army,white,offcenter,zombie_army_002.jpeg
+39,Wolf,white,offcenter,wolf_002.jpeg
+40,Duress,white,offcenter,duress_002.jpeg
+41,Plaguecrafter,white,offcenter,plaguecrafter_002.jpeg
+42,Undead Servant,white,offcenter,undead_servant_002.jpeg
+43,Aggressive Mammoth,white,offcenter,aggressive_mammoth_002.jpeg
+44,Vorstclaw,white,offcenter,vorstclaw_002.jpeg
+45,Rabid Bite,white,offcenter,rabid_bite_002.jpeg
+46,Three Tree City,white,offcenter,three_tree_city_002.jpeg
+47,"Ob Nixilis, the Hate-Twisted",white,offcenter,ob_nixilis_the_hate-twisted_002.jpeg
+48,Roaming Throne,white,offcenter,roaming_throne_002.jpeg
+49,Arrester's Zeal,white,offcenter,arresters_zeal_002.jpeg
+50,Leafkin Druid,white,offcenter,leafkin_druid_002.jpeg
+51,Justiciar's Portal,white,offcenter,justiciars_portal_002.jpeg
+52,Plains,white,offcenter,plains_002.jpeg
+53,Mask of Immolation,white,offcenter,mask_of_immolation_002.jpeg
+54,"Chandra, Novice Pyromancer",white,offcenter,chandra_novice_pyromancer_002.jpeg
+55,Jaya's Greeting,white,offcenter,jayas_greeting_002.jpeg
+56,Cloudkin Seer,white,offcenter,cloudkin_seer_002.jpeg
+57,Winged Words,white,offcenter,winged_words_002.jpeg
+58,Cavern of Souls,white,offcenter,cavern_of_souls_002.jpeg
+59,Corpse Knight,white,offcenter,corpse_knight_002.jpeg
+60,Unsummon,white,offcenter,unsummon_002.jpeg
+61,Tenth District Guard,wood,center,tenth_district_guard_003.jpeg
+62,Iron Clad Krovod,wood,center,iron_clad_krovod_003.jpeg
+63,Ironroot Warlord,wood,center,ironroot_warlord_003.jpeg
+64,Risen Reef,wood,center,risen_reef_003.jpeg
+65,Empyrean Eagle,wood,center,empyrean_eagle_003.jpeg
+66,Soldier,wood,center,soldier_003.jpeg
+67,Wolf,wood,center,wolf_003.jpeg
+68,Zombie Army,wood,center,zombie_army_003.jpeg
+69,Audacious Thief,wood,center,audacious_thief_003.jpeg
+70,Plaguecrafter,wood,center,plaguecrafter_003.jpeg
+71,Duress,wood,center,duress_003.jpeg
+72,Undead Servant,wood,center,undead_servant_003.jpeg
+73,Vorstclaw,wood,center,vorstclaw_003.jpeg
+74,Aggressive Mammoth,wood,center,aggressive_mammoth_003.jpeg
+75,Rabid Bite,wood,center,rabid_bite_003.jpeg
+76,Roaming Throne,wood,center,roaming_throne_003.jpeg
+77,Three Tree City,wood,center,three_tree_city_003.jpeg
+78,"Ob Nixilis, the Hate-Twisted",wood,center,ob_nixilis_the_hate-twisted_003.jpeg
+79,Leafkin Druid,wood,center,leafkin_druid_003.jpeg
+80,Arrester's Zeal,wood,center,arresters_zeal_003.jpeg
+81,Justiciar's Portal,wood,center,justiciars_portal_003.jpeg
+82,Mask of Immolation,wood,center,mask_of_immolation_003.jpeg
+83,Plains,wood,center,plains_003.jpeg
+84,"Chandra, Novice Pyromancer",wood,center,chandra_novice_pyromancer_003.jpeg
+85,Jaya's Greeting,wood,center,jayas_greeting_003.jpeg
+86,Cloudkin Seer,wood,center,cloudkin_seer_003.jpeg
+87,Winged Words,wood,center,winged_words_003.jpeg
+88,Cavern of Souls,wood,center,cavern_of_souls_003.jpeg
+89,Unsummon,wood,center,unsummon_003.jpeg
+90,Corpse Knight,wood,center,corpse_knight_003.jpeg
+91,Tenth District Guard,wood,offcenter,tenth_district_guard_004.jpeg
+92,Iron Clad Krovod,wood,offcenter,iron_clad_krovod_004.jpeg
+93,Ironroot Warlord,wood,offcenter,ironroot_warlord_004.jpeg
+94,Risen Reef,wood,offcenter,risen_reef_004.jpeg
+95,Empyrean Eagle,wood,offcenter,empyrean_eagle_004.jpeg
+96,Soldier,wood,offcenter,soldier_004.jpeg
+97,Wolf,wood,offcenter,wolf_004.jpeg
+98,Zombie Army,wood,offcenter,zombie_army_004.jpeg
+99,Audacious Thief,wood,offcenter,audacious_thief_004.jpeg
+100,Plaguecrafter,wood,offcenter,plaguecrafter_004.jpeg
+101,Duress,wood,offcenter,duress_004.jpeg
+102,Undead Servant,wood,offcenter,undead_servant_004.jpeg
+103,Vorstclaw,wood,offcenter,vorstclaw_004.jpeg
+104,Aggressive Mammoth,wood,offcenter,aggressive_mammoth_004.jpeg
+105,Rabid Bite,wood,offcenter,rabid_bite_004.jpeg
+106,Roaming Throne,wood,offcenter,roaming_throne_004.jpeg
+107,Three Tree City,wood,offcenter,three_tree_city_004.jpeg
+108,"Ob Nixilis, the Hate-Twisted",wood,offcenter,ob_nixilis_the_hate-twisted_004.jpeg
+109,Leafkin Druid,wood,offcenter,leafkin_druid_004.jpeg
+110,Arrester's Zeal,wood,offcenter,arresters_zeal_004.jpeg
+111,Justiciar's Portal,wood,offcenter,justiciars_portal_004.jpeg
+112,Mask of Immolation,wood,offcenter,mask_of_immolation_004.jpeg
+113,Plains,wood,offcenter,plains_004.jpeg
+114,"Chandra, Novice Pyromancer",wood,offcenter,chandra_novice_pyromancer_004.jpeg
+115,Jaya's Greeting,wood,offcenter,jayas_greeting_004.jpeg
+116,Cloudkin Seer,wood,offcenter,cloudkin_seer_004.jpeg
+117,Winged Words,wood,offcenter,winged_words_004.jpeg
+118,Cavern of Souls,wood,offcenter,cavern_of_souls_004.jpeg
+119,Unsummon,wood,offcenter,unsummon_004.jpeg
+120,Corpse Knight,wood,offcenter,corpse_knight_004.jpeg
+121,Tenth District Guard,playmat,center,tenth_district_guard_005.jpeg
+122,Iron Clad Krovod,playmat,center,iron_clad_krovod_005.jpeg
+123,Ironroot Warlord,playmat,center,ironroot_warlord_005.jpeg
+124,Risen Reef,playmat,center,risen_reef_005.jpeg
+125,Empyrean Eagle,playmat,center,empyrean_eagle_005.jpeg
+126,Soldier,playmat,center,soldier_005.jpeg
+127,Wolf,playmat,center,wolf_005.jpeg
+128,Zombie Army,playmat,center,zombie_army_005.jpeg
+129,Audacious Thief,playmat,center,audacious_thief_005.jpeg
+130,Plaguecrafter,playmat,center,plaguecrafter_005.jpeg
+131,Duress,playmat,center,duress_005.jpeg
+132,Undead Servant,playmat,center,undead_servant_005.jpeg
+133,Vorstclaw,playmat,center,vorstclaw_005.jpeg
+134,Aggressive Mammoth,playmat,center,aggressive_mammoth_005.jpeg
+135,Rabid Bite,playmat,center,rabid_bite_005.jpeg
+136,Roaming Throne,playmat,center,roaming_throne_005.jpeg
+137,Three Tree City,playmat,center,three_tree_city_005.jpeg
+138,"Ob Nixilis, the Hate-Twisted",playmat,center,ob_nixilis_the_hate-twisted_005.jpeg
+139,Leafkin Druid,playmat,center,leafkin_druid_005.jpeg
+140,Arrester's Zeal,playmat,center,arresters_zeal_005.jpeg
+141,Justiciar's Portal,playmat,center,justiciars_portal_005.jpeg
+142,Mask of Immolation,playmat,center,mask_of_immolation_005.jpeg
+143,Plains,playmat,center,plains_005.jpeg
+144,"Chandra, Novice Pyromancer",playmat,center,chandra_novice_pyromancer_005.jpeg
+145,Jaya's Greeting,playmat,center,jayas_greeting_005.jpeg
+146,Cloudkin Seer,playmat,center,cloudkin_seer_005.jpeg
+147,Winged Words,playmat,center,winged_words_005.jpeg
+148,Cavern of Souls,playmat,center,cavern_of_souls_005.jpeg
+149,Unsummon,playmat,center,unsummon_005.jpeg
+150,Corpse Knight,playmat,center,corpse_knight_005.jpeg
+151,Tenth District Guard,playmat,offcenter,tenth_district_guard_006.jpeg
+152,Iron Clad Krovod,playmat,offcenter,iron_clad_krovod_006.jpeg
+153,Ironroot Warlord,playmat,offcenter,ironroot_warlord_006.jpeg
+154,Risen Reef,playmat,offcenter,risen_reef_006.jpeg
+155,Empyrean Eagle,playmat,offcenter,empyrean_eagle_006.jpeg
+156,Soldier,playmat,offcenter,soldier_006.jpeg
+157,Wolf,playmat,offcenter,wolf_006.jpeg
+158,Zombie Army,playmat,offcenter,zombie_army_006.jpeg
+159,Audacious Thief,playmat,offcenter,audacious_thief_006.jpeg
+160,Plaguecrafter,playmat,offcenter,plaguecrafter_006.jpeg
+161,Duress,playmat,offcenter,duress_006.jpeg
+162,Undead Servant,playmat,offcenter,undead_servant_006.jpeg
+163,Vorstclaw,playmat,offcenter,vorstclaw_006.jpeg
+164,Aggressive Mammoth,playmat,offcenter,aggressive_mammoth_006.jpeg
+165,Rabid Bite,playmat,offcenter,rabid_bite_006.jpeg
+166,Roaming Throne,playmat,offcenter,roaming_throne_006.jpeg
+167,Three Tree City,playmat,offcenter,three_tree_city_006.jpeg
+168,"Ob Nixilis, the Hate-Twisted",playmat,offcenter,ob_nixilis_the_hate-twisted_006.jpeg
+169,Leafkin Druid,playmat,offcenter,leafkin_druid_006.jpeg
+170,Arrester's Zeal,playmat,offcenter,arresters_zeal_006.jpeg
+171,Justiciar's Portal,playmat,offcenter,justiciars_portal_006.jpeg
+172,Mask of Immolation,playmat,offcenter,mask_of_immolation_006.jpeg
+173,Plains,playmat,offcenter,plains_006.jpeg
+174,"Chandra, Novice Pyromancer",playmat,offcenter,chandra_novice_pyromancer_006.jpeg
+175,Jaya's Greeting,playmat,offcenter,jayas_greeting_006.jpeg
+176,Cloudkin Seer,playmat,offcenter,cloudkin_seer_006.jpeg
+177,Winged Words,playmat,offcenter,winged_words_006.jpeg
+178,Cavern of Souls,playmat,offcenter,cavern_of_souls_006.jpeg
+179,Unsummon,playmat,offcenter,unsummon_006.jpeg
+180,Corpse Knight,playmat,offcenter,corpse_knight_006.jpeg
