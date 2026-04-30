@@ -2,8 +2,7 @@
 import cv2
 import os
 
-# initial preprocess function that is unoptimzed utilizing cv2 libraries
-def preprocess(input_image):
+def preprocess(input_image, debug):
     # Read in image
     image = cv2.imread(input_image)
 
@@ -13,8 +12,10 @@ def preprocess(input_image):
     # Gaussian blur
     image_blur = cv2.GaussianBlur(image_gray, (3, 3), 0)
 
-    output_dir = os.getcwd()
-    output_path = os.path.join(output_dir, "preprocess.png")
-    cv2.imwrite(output_path, image_blur)
+    if debug:
+        output_dir = os.getcwd()
+        output_path = os.path.join(output_dir, "preprocess.png")
+        cv2.imwrite(output_path, image_blur)
+
 
     return image_blur

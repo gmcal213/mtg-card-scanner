@@ -1,4 +1,3 @@
-# Main Entry Point for Scanner app
 import argparse
 import os
 from pathlib import Path
@@ -8,14 +7,17 @@ from .contour_find import contour_find
 from .title_extract import title_extract
 from .text_extract import text_extract
 
+# Main Entry Point for Scanner app
 def main():
     parser = argparse.ArgumentParser(description="Scan an image for an MTG Card")
 
     parser.add_argument("input_image", help="Path to Image")
-    parser.add_argument("-out", "-o", help="Output file location", default=os.getcwd())
+    parser.add_argument("--out", "-o", help="Output file location", default=os.getcwd())
+    parser.add_argument("--debug", "-d", help="Print extra debug information", action="store_true")
     args = parser.parse_args()
 
     input_file = Path(args.input_image)
+    debug = args.debug
 
     print(f"Running your app")
 
@@ -25,19 +27,19 @@ def main():
         return None
 
     print(f"Running Preprocessing")
-    image_preprocess = preprocess(input_file)
+    image_preprocess = preprocess(input_file, debug)
 
     print(f"Running Edge Detector")
-    edge_detections = edge_detect(image_preprocess)
+    edge_detections = edge_detect(image_preprocess, debug)
 
     print(f"Finding Bounding Rectangle")
-    rect = contour_find(edge_detections)
+    rect = contour_find(edge_detections, debug)
 
     print(f"Extracting Card and Title from Bounding Rectangle")
-    title_image = title_extract(image_preprocess, rect)
+    title_image = title_extract(image_preprocess, rect, debug)
 
     print(f"Running OCR Pipeline on Title Image")
-    title = text_extract(title_image)
+    title = text_extract(title_image, debug)
 
 
 if __name__ == "__main__":

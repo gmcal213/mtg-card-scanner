@@ -1,7 +1,7 @@
 import cv2
 import os
 
-def edge_detect(input_image):   
+def edge_detect(input_image, debug):   
     ddepth = cv2.CV_16S
     # X gradient
     grad_x = cv2.Sobel(input_image, ddepth, 1, 0)
@@ -19,8 +19,9 @@ def edge_detect(input_image):
     thresh = grad.max() * 0.3 # Set threshold
     thresh, edge_map = cv2.threshold(grad, thresh, 255, cv2.THRESH_BINARY)
 
-    output_dir = os.getcwd()
-    output_path = os.path.join(output_dir, "edge_detect.png")
-    cv2.imwrite(output_path, edge_map)
+    if debug:
+        output_dir = os.getcwd()
+        output_path = os.path.join(output_dir, "edge_detect.png")
+        cv2.imwrite(output_path, edge_map)
 
     return edge_map
