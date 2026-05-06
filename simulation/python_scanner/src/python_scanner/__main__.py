@@ -1,3 +1,3 @@
-from .python_scanner import main
+from .card_scanner import main
 
 main()
