@@ -1,6 +1,6 @@
 id,title,background,position,file
 1,Tenth District Guard,white,center,tenth_district_guard_001.jpeg
-2,Iron Clad Krovod,white,center,iron_clad_krovod_001.jpeg
+2,Ironclad Krovod,white,center,ironclad_krovod_001.jpeg
 3,Ironroot Warlord,white,center,ironroot_warlord_001.jpeg
 4,Risen Reef,white,center,risen_reef_001.jpeg
 5,Empyrean Eagle,white,center,empyrean_eagle_001.jpeg
@@ -30,7 +30,7 @@ id,title,background,position,file
 29,Corpse Knight,white,center,corpse_knight_001.jpeg
 30,Three Tree City,white,center,three_tree_city_001.jpeg
 31,Audacious Thief,white,offcenter,audacious_thief_002.jpeg
-32,Iron Clad Krovod,white,offcenter,iron_clad_krovod_002.jpeg
+32,Ironclad Krovod,white,offcenter,ironclad_krovod_002.jpeg
 33,Ironroot Warlord,white,offcenter,ironroot_warlord_002.jpeg
 34,Tenth District Guard,white,offcenter,tenth_district_guard_002.jpeg
 35,Empyrean Eagle,white,offcenter,empyrean_eagle_002.jpeg
@@ -60,7 +60,7 @@ id,title,background,position,file
 59,Corpse Knight,white,offcenter,corpse_knight_002.jpeg
 60,Unsummon,white,offcenter,unsummon_002.jpeg
 61,Tenth District Guard,wood,center,tenth_district_guard_003.jpeg
-62,Iron Clad Krovod,wood,center,iron_clad_krovod_003.jpeg
+62,Ironclad Krovod,wood,center,ironclad_krovod_003.jpeg
 63,Ironroot Warlord,wood,center,ironroot_warlord_003.jpeg
 64,Risen Reef,wood,center,risen_reef_003.jpeg
 65,Empyrean Eagle,wood,center,empyrean_eagle_003.jpeg
@@ -90,7 +90,7 @@ id,title,background,position,file
 89,Unsummon,wood,center,unsummon_003.jpeg
 90,Corpse Knight,wood,center,corpse_knight_003.jpeg
 91,Tenth District Guard,wood,offcenter,tenth_district_guard_004.jpeg
-92,Iron Clad Krovod,wood,offcenter,iron_clad_krovod_004.jpeg
+92,Ironclad Krovod,wood,offcenter,ironclad_krovod_004.jpeg
 93,Ironroot Warlord,wood,offcenter,ironroot_warlord_004.jpeg
 94,Risen Reef,wood,offcenter,risen_reef_004.jpeg
 95,Empyrean Eagle,wood,offcenter,empyrean_eagle_004.jpeg
@@ -120,7 +120,7 @@ id,title,background,position,file
 119,Unsummon,wood,offcenter,unsummon_004.jpeg
 120,Corpse Knight,wood,offcenter,corpse_knight_004.jpeg
 121,Tenth District Guard,playmat,center,tenth_district_guard_005.jpeg
-122,Iron Clad Krovod,playmat,center,iron_clad_krovod_005.jpeg
+122,Ironclad Krovod,playmat,center,ironclad_krovod_005.jpeg
 123,Ironroot Warlord,playmat,center,ironroot_warlord_005.jpeg
 124,Risen Reef,playmat,center,risen_reef_005.jpeg
 125,Empyrean Eagle,playmat,center,empyrean_eagle_005.jpeg
@@ -150,7 +150,7 @@ id,title,background,position,file
 149,Unsummon,playmat,center,unsummon_005.jpeg
 150,Corpse Knight,playmat,center,corpse_knight_005.jpeg
 151,Tenth District Guard,playmat,offcenter,tenth_district_guard_006.jpeg
-152,Iron Clad Krovod,playmat,offcenter,iron_clad_krovod_006.jpeg
+152,Ironclad Krovod,playmat,offcenter,ironclad_krovod_006.jpeg
 153,Ironroot Warlord,playmat,offcenter,ironroot_warlord_006.jpeg
 154,Risen Reef,playmat,offcenter,risen_reef_006.jpeg
 155,Empyrean Eagle,playmat,offcenter,empyrean_eagle_006.jpeg

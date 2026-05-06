@@ -1,0 +1,9 @@
+id,background,position,blur,edge,thresh,degredation
+1,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","none"
+2,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","blur"
+3,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","noise"
+4,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","lighting"
+5,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","color"
+6,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","compression"
+7,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","occlusion"
+8,"white,wood,playmat","center,offcenter","gaussian,bilateral,clahe","sobel,canny,log","global,otsu,adaptive","distortion"
