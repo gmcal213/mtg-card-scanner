@@ -1,6 +1,5 @@
 import argparse
 import cv2
-import numpy as np
 from pathlib import Path
 from .preprocess import preprocess
 from .edge_detect import edge_detect

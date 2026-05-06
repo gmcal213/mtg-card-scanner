@@ -1,0 +1,33 @@
+[project]
+name = "python-scanner"
+version = "1.0.0"
+description = "Python scanner for simulation"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "easyocr"
+]
+
+[project.optional-dependencies]
+dev = [
+    "jiwer",
+    "albumentations",
+    "pandas",
+    "matplotlib",
+    "seaborn"
+]
+
+[project.scripts]
+python-scanner = "python_scanner.__main__:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
